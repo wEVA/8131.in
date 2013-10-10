@@ -11,17 +11,19 @@ ListenRadio（リスラジ）とは、最新ヒット曲が無料で聴き放題
 沖縄のラジオ局はFMうるまをはじめ、8局が選局可能です。
 
 なんといってもAndroidスマートフォン、iPhoneでも利用できるのがウレシイところです！
-これさえあれば、外出先でもFMうるまの「ふぇいすぶっくラジオ」が聴けちゃいますね♪
+これさえあれば、外出先でもFMうるまの「[ふぇいすぶっくラジオ](https://www.facebook.com/fmuruma.radio)」が聴けちゃいますね♪
 
-是非、FMうるま＆「ふぇいすぶっくラジオ」の応援よろしくおねがいします！
+是非、FMうるま＆「[ふぇいすぶっくラジオ](https://www.facebook.com/fmuruma.radio)」の応援よろしくおねがいします！
+
+[ふぇいすぶっくラジオ](https://www.facebook.com/fmuruma.radio)は、毎週水曜日の19:00〜FMうるまで聴くことができます！！
 
 #### ListenRadio（リスラジ）
 
-http://listenradio.jp/
+[http://listenradio.jp/](http://listenradio.jp/)
 
 #### 「ふぇいすぶっくラジオ」
 
 毎週水曜日　19:00～20:00  
 FMうるまにて放送中  
-http://fm-uruma.com/
+[http://fm-uruma.com/](http://fm-uruma.com/)
 
